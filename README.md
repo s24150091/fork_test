@@ -12,3 +12,6 @@ Test repository for collaboration
 6. 君和田悠斗
 7. 林田悠杜
 8. 小池永遠
+9. 荒井善龍
+10. 栗原将太
+11. 藤井隆斗

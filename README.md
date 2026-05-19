@@ -11,4 +11,5 @@ Test repository for collaboration
 5. 白石玲奈  
 6. 君和田悠斗
 7. 林田悠杜
-8. 栗原将太
+8. 荒井善龍
+9. 栗原将太

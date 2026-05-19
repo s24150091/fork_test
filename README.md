@@ -12,3 +12,4 @@ Test repository for collaboration
 6. 君和田悠斗
 7. 林田悠杜
 8. 荒井善龍
+9. 栗原将太
